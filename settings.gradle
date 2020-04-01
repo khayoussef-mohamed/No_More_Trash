@@ -1,0 +1,2 @@
+rootProject.name='No_More_Trash'
+include ':app'
